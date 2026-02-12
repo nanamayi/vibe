@@ -1,0 +1,8 @@
+
+{
+  "name": "VibeStream",
+  "description": "A world-class music discovery platform. Discover music, generate themed playlists, and explore new genres with VibeStream.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
